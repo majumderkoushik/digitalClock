@@ -10,7 +10,7 @@ A simple digital clock web application built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can see a live demo of the Digital Clock app 
+You can see a live demo of the Digital Clock app (https://majumderkoushik.github.io/digitalClock/)
 
 
 
